@@ -21,3 +21,5 @@
 
 ![color picker](https://s11.gifyu.com/images/outputvideo-cutter-js.com.gif) <br>
 **Пример работы с веб-интерфейсом**
+
+Эмбеддинги для скачивания: https://drive.google.com/drive/folders/1rjfXhDYRegHC_ix4pk0QjcbYis9uvb-Z?usp=share_link
