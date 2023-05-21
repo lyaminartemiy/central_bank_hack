@@ -23,3 +23,7 @@
 **Пример работы с веб-интерфейсом**
 
 Эмбеддинги для скачивания: https://drive.google.com/drive/folders/1rjfXhDYRegHC_ix4pk0QjcbYis9uvb-Z?usp=share_link
+
+*Решение задач №2-3*: <br>
+Выявили аномалии в данных, распределили на типы. <br>
+Файл `gibdata.ipynb` - файл с исследовательской работой
